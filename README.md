@@ -1,4 +1,5 @@
 Latest News Headlines - Android App
+
 This is an Android application designed to provide users with the latest news headlines from various categories such as World News, Technology, Sports, Entertainment, and more. The app integrates with popular news APIs to fetch real-time updates, allowing users to stay informed on current events directly from their smartphones.
 
 Features
